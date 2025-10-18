@@ -1,3 +1,4 @@
+# Simple Weather App using wttr.in API
 import requests
 
 city = input("Enter city name: ")
